@@ -1,6 +1,6 @@
 {
   "name": "angular-bluebird",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Angular Service for Bluebird",
   "main": "lib/angular-bluebird.js",
   "directories": {
