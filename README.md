@@ -40,7 +40,7 @@ ngBluebird.trackDigests(app) //thank you http://stackoverflow.com/questions/2398
 ```js
 function SomeCtrl($scope, $window, $timeout, $bluebird) {
   function asyncAskQuestion(question) {
-    var deferred = $bluebird.defer
+    var deferred = $bluebird.defer()
 
     $timeout(function() { //simulate async
       var result = $window.prompt(question)
