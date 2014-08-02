@@ -1,0 +1,32 @@
+{
+  "name": "angular-bluebird",
+  "version": "0.0.0",
+  "description": "Angular Service for Bluebird",
+  "main": "lib/angular-bluebird.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jprichardson/angular-bluebird"
+  },
+  "keywords": [
+    "bluebird",
+    "angular",
+    "promise",
+    "angularjs",
+    "promises"
+  ],
+  "author": "JP Richardson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jprichardson/angular-bluebird/issues"
+  },
+  "homepage": "https://github.com/jprichardson/angular-bluebird",
+  "dependencies": {
+    "bluebird": "^2.2.2"
+  }
+}
