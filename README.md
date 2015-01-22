@@ -1,3 +1,5 @@
+### NOT MAINTAINED: see https://github.com/jprichardson/angular-bluebird/issues/1
+
 angular-bluebird
 ================
 
